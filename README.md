@@ -1,6 +1,5 @@
-# :us: Spatial Mapping
+# :triangular_flag_on_post: Spatial Mapping
 
-:us:
 Simple functions to create spatial plots in python
 
 ## Exploring the gmplot package
