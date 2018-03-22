@@ -1,10 +1,14 @@
-# spatial_mapping
-Simple ways to create spatial plots in python
+# :us: Spatial Mapping
+Simple functions to create spatial plots in python
 
 ## Exploring the gmplot package
 Using publically available data from data.gov to create spatial heatmaps
 
 ### Getting data from data.gov
+
+```python
+from gmplot import gmplot
+```
 
 ```python
 import json
@@ -39,3 +43,4 @@ df = pd.read_csv('./Data/Public_311_2017.csv')
 * [ ] Plot the chicago crime dataset for diferent years to observe change in crime in different years
 * [ ] Animate the change in heatmaps using imageio
 * [ ] Explore other packages
+* [x] Compare with htmlwidget leaflet package 
