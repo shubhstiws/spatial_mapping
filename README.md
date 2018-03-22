@@ -1,4 +1,6 @@
 # :us: Spatial Mapping
+
+:us:
 Simple functions to create spatial plots in python
 
 ## Exploring the gmplot package
